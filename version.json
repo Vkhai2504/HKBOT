@@ -1,0 +1,17 @@
+{
+    "version": "v1.0",
+    "shouldUpdateInfo": true,
+    "label": {
+        "update": true,
+        "text": "Chào mừng bạn đến với Auto",
+        "row": 0,
+        "column": 0
+    },
+    "link": {
+        "update": true,
+        "text": "GitHub",
+        "url": "https://github.com/Dylan-Zheng/Rise-of-Kingdoms-Bot",
+        "row": 0,
+        "column": 1
+    }
+}
